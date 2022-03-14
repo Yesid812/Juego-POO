@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+*.Archivo filter=lfs diff=lfs merge=lfs -text
+*.lld filter=lfs diff=lfs merge=lfs -text
+.*Archivo filter=lfs diff=lfs merge=lfs -text
+*lld filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 45244db291df651a9d1da42cd020dde9c75014ca
+lld filter=lfs diff=lfs merge=lfs -text
